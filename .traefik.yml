@@ -1,0 +1,12 @@
+displayName: Wafris traefik Plugin
+type: middleware
+iconPath: .assets/icon.png
+
+import: github.com/Wafris/wafris-traefik
+
+summary: 'Wafris traefik plugin'
+
+testData:
+  Headers:
+    X-Wafris: test
+    X-URL: '{{URL}}'
