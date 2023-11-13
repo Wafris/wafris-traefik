@@ -57,3 +57,5 @@ TODO
 ### Add the plugin to a router
 
 TODO
+
+<img src='https://uptimer.expeditedsecurity.com/wafris-traefik' width='0' height='0'>
